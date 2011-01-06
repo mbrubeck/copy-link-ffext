@@ -1,0 +1,4 @@
+
+content    copylink content/
+
+overlay    chrome://browser/content/browser.xul chrome://copylink/content/browser.xul
